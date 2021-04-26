@@ -10,7 +10,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="simple-python-debugger",
-    version="0.0.2",
+    version="0.1.0",
     description="Simple Debugger for Python",
     long_description=README,
     long_description_content_type="text/markdown",

@@ -13,6 +13,8 @@ def debug(func):
             kwargs,
             result,
         ))
-        print("Time of Execution: {}".format(format(end - start, ",.2f")))
+
+        time_taken = format(end - start, ",.2f")
+        print("Time of Execution: {} seconds".format(time_taken))
 
     return _wrapper
