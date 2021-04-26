@@ -17,6 +17,7 @@ setup(
     url="https://github.com/mzebin/simple-debgugger",
     author="Mohammed Zebin",
     packages=["simple_debugger"],
+    keywords=["Python", "Python3", "Debugger"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",
