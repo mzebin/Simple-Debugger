@@ -1,1 +1,1 @@
-from simple_debugger.debugger import debug
+from simple_python_debugger.debugger import debug
