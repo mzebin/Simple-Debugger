@@ -1,1 +1,1 @@
-from simple_python_debugger.debugger import debug
+from spdb.debugger import debug
