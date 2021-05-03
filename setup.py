@@ -14,7 +14,7 @@ setup(
     description="Simple Debugger for Python",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/mzebin/simple-debgugger",
+    url="https://github.com/mzebin/simple-python-debugger/",
     author="Mohammed Zebin",
     license="MIT",
     packages=["simple_python_debugger"],
