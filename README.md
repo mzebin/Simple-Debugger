@@ -4,7 +4,7 @@ Simple Debugger Package for python.
 ## Example
 ### Code
 ```
-from simple_python_debugger import debug
+from spdb import debug
 
 
 @debug
