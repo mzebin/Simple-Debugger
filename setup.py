@@ -10,14 +10,15 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="simple-python-debugger",
-    version="0.1.0",
+    version="0.1.1",
     description="Simple Debugger for Python",
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/mzebin/simple-python-debugger/",
     author="Mohammed Zebin",
+    author_email="<mohammed.zebin7@gmail.com>",
     license="MIT",
-    packages=["simple_python_debugger"],
+    packages=["spdb"],
     keywords=["Python", "Python3", "Debugger"],
     classifiers=[
         "Programming Language :: Python :: 3",
